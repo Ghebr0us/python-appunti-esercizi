@@ -1,0 +1,36 @@
+# Struttura dati
+
+una struttura dati è un'entità usata per organizzare un insieme di dati all'interno della memoria del computer,
+ ed eventualmente per memorizzarli in una memoria di massa.
+
+La struttura dati è un metodo di organizzazione dati, quindi prescinde da ciò che è effettivamente contenuto.
+
+sono di tipo:
+
+statiche: numero fisso di elementi : (Dim "nome vettore" [100] as integer)
+
+dinamiche: numero variabile di elementi(nome lista = [1,2,3,4,5,.'pippo',...] )
+
+
+______________________________________________________________________________________
+nelle liste non deve essere tutto dello stesso tipo(interi, stringhe)
+  -   -  -   -  -   -  -   -  -   -  -   -  -   -  -   -  -   -  -   -  -   -  -   -  -
+
+Un albero è una rappresentazione dell'albero in teoria dei grafi.
+
+ATTENZIONE!  Un albero deve essere privo di cicli, ovvero un nodo non può essere discendente di sé stesso
+________________________________________________________________________
+
+si sceglie la struttura dati dipendentemente dall'esigenza(statica o dinamica)
+
+Il grafo è una generalizzazione dell'albero.Ogni nodo ha un numero arbitrario di nodi "vicini", e può contenere cicli.
+In generale, può essere associato un carico utile sia ai nodi che ai collegamenti tra di loro.
+
+|  il grafo, come l'albero, è orientato |
+
+                           
+
+Coda: Una coda è una struttura dati di tipo FIFO (First In First Out). Viene tipicamente realizzata con array o liste
+ °   -  -   -  -   -  -   -  -   -  -   -  -   -  -   -  -   -  -   -  -   -  -   -  -   -  -   -  -   -  -   -  -   - °
+Pila: Una pila è una struttura dati di tipo LIFO (Last In First Out). Viene tipicamente realizzata con array o liste.
+
