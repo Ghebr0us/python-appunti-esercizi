@@ -1,0 +1,81 @@
+Object Oriented Programming
+OOP
+
+ANALISI:
+capire il problema
+incognite?
+condizioni?
+
+PROGETTAZIONE:
+elaborazione piano
+relazione dati e incognite
+metodo
+pensiero computazionale
+risoluzione problema + semplice
+
+PROGRAMMAZIONE:
+scelta paradigma
+scelta linguaggio
+
+VERIFICA:
+esecuzione
+controllo passo passo
+controllo soluzione
+
+
+Programmazione logica
+Il Prolog è un linguaggio di programmazione che adotta il paradigma di programmazione logica
+
+Programmazione funzionale
+uso matematica
+
+
+Astrazione
+evidenziare proprietà 
+creazione modelli
+rappresentati da classi
+
+
+Oggetto
+rappresenta il concetto di un dominio
+campi privati(incapsulamento)
+Classe
+ogni oggetto ha una classe di origine
+
+
+Ereditarietà
+Diagramma della classe
+nome della classe
+
+attributi
+
+metodi/operazioni
+
+marcatori di visibilità
+      #	protetta 
+privata 
+pubblica
+
+Linguaggio UMl(linguaggio unificato di modellazione)
+1.5 9 diagrammi
+modelli statici(struttura del sistema)
+modelli dinamici(comportamento sistema)
+2.5 14 diagrammi
+
+strutturali
+comportamentali 
+d’interazione
+
+una classe è una collezione di elementi/ogetti che hanno:
+stesse caratteristiche
+stesse proprietà
+stessi metodi
+ la stessa interfaccia
+stessa struttura sto interno
+
+oggetto è un’istanza della classe
+
+
+classi in py
+ costruzione oggetto(istanza)
+__init__  metodo costruttore
